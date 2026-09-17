@@ -4,7 +4,7 @@ docuemntacao nescessaria
 
 # Sobre o Repositorio
 
-precisa disso tambem [instalação](docs/exemplo.md)
+precisa disso tambem [instalação](docs/Exemplo.md)
 
 # sim isso
 
